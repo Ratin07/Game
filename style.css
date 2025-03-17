@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: url("BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#head{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    box-shadow: 2px 2px 2px wheat;
+    border-radius: 0.25rem;
+    border: 1.5px solid black;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 2px 4px 8px red;
+}
+div {
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+}
+
+#div{
+    font-weight: 900;
+    font-size: larger;
+    color: palevioletred;
+}
+#btn{
+    border: 1.5px solid black;
+};
