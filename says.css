@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-image: url("—Pngtree—background\ of\ monitor\ computer\ with_15517930.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid rgb(224, 39, 224);
+    margin: 1.2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.purple{
+    background-color: #819ff9;
+}
+
+
+.flash{
+    background-color: white;
+    transition: background-color 0.25s ease; 
+}
+
+.userflash{
+    background-color:  rgb(224, 39, 224);
+};
